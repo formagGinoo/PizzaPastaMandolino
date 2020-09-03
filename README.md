@@ -30,4 +30,4 @@
 <br />
 <br />
 
-[ItzAlem's Github Stats](https://github-readme-stats.vercel.app/api?username=ItzAlem)
+[![ItzAlem's Github Stats](https://github-readme-stats.vercel.app/api?username=ItzAlem)]
