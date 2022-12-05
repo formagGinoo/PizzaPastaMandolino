@@ -1,11 +1,9 @@
-### Hi there, I'm Alessandro - aka [Gino] 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/formaDeCacio?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ItzAlem&screen_name=formaDeCacio)
+### Hi there, I'm Alessandro - aka [formagGino] 👋
 
 ## I'm a Student and Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Work on a cool project
+- 🥅 2022 Goals: Work on a cool project
 - ⚡ Fun fact: I love play video games
 
 <br />
